@@ -124,8 +124,6 @@ if(isset($_GET['v'])){
       <input type="text" name="v" style="width: 50%;height: 50px;border: none;box-sizing: border-box;padding: 14px 18px;" placeholder="请输入视频ID或Youtube链接"  autocomplete="off" /><button type="submit"  style="width: 18%;border: none;height: 50px;background-color: #e62117;color: #fff;font-size: 18px;display: inline-block;" ><i class="fa fa-youtube-play fa-lg pr-1"></i>播放</button>
   </div>
     </form>
-    <p class="text-white m-0">苟利国家生死以，岂因祸福避趋之。</p>
-    <p class="text-white m-0">岂因祸福避趋之。</p>
     <p class="text-white m-0">一个人的命运当然要靠自我奋斗，</p>
     <p class="text-white m-0">但是也要考虑历史的进程！</p>
     </div>
